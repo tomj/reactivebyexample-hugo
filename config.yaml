@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://reactivebyexample.github.io/"
+title: "Hugo Blog Template for GitHub Pages"
+canonifyurls: true
+theme: "Crisp"
+...
