@@ -1,0 +1,16 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = true
+baseurl = "http://www.reactivebyexample.com"
+title = "Examples of Functional Reactive Programming - in Swift"
+canonifyurls = true
+theme = "Crisp"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "Examples of Functional Reactive Programming"
+  author = "Tom Jowett"
