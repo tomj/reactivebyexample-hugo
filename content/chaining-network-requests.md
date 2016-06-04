@@ -3,11 +3,11 @@ title: "Chaining multiple network requests"
 date: "2016-05-19"
 description: ""
 tags:
-    - "networking"
-    - "introduction"
+- "networking"
+- "introduction"
 categories:
-    - "networking"
-    - "introduction"
+- "networking"
+- "introduction"
 ---
 
 FRP promises a lot of things.  During the first talk I saw about ReactiveCocoa, I was shown that it could chain network operations.  That sounded awesome, as I really don't like asynchronous callback hell.
