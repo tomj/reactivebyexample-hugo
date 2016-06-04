@@ -10,7 +10,7 @@
 		{{if .Params.tags }}
 		&middot; 
     	{{ range $index, $tag := .Params.tags }}
-            <a href="{{ $baseurl }}tags/{{ $tag | urlize }}/">{{ $tag }}</a>
+            <a href="{{ $baseurl }}/tags/{{ $tag | urlize }}/">{{ $tag }}</a>
         {{ end }}
     	{{ end }}
 		</span>
